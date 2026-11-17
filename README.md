@@ -2,7 +2,7 @@
 
 | **Name: KIRAN KUMAR V |  | **Reg. No.: 26018171 |  |
 |---|---|---|---|
-| **Date:17-11-2026** | | **Batch / Section:** | |
+| **Date:17-11-2026** | | **Batch / Section: B.E Cse | |
 
 ---
 
