@@ -88,7 +88,8 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 ### A. KVL – Voltage measurements
 
-<img width="1280" height="556" alt="WhatsApp Image 2026-11-16 at 7 28 52 PM" src="https://github.com/user-attachments/assets/6b3ba207-6fac-4723-b0c7-19cb63b40342" />
+<img width="1600" height="670" alt="WhatsApp Image 2026-11-17 at 5 30 38 PM" src="https://github.com/user-attachments/assets/d07843e2-0419-4b4e-a422-3f88949520e1" />
+
 
 
 ### B. KCL – Current measurements
@@ -114,8 +115,8 @@ Substitute the observed values and verify that the algebraic sum of the voltage 
 According to KCL, **It = I1 + I2 + I3**.
 
 Substitute the observed values and verify that the total current entering the node is approximately equal to the sum of the branch currents.
+<img width="960" height="1280" alt="2" src="https://github.com/user-attachments/assets/3d2dfdeb-6648-42f9-92ea-84bfda8532a2" />
 
-<img width="960" height="1280" alt="WhatsApp Image 2026-11-16 at 7 28 51 PM (1)" src="https://github.com/user-attachments/assets/f574cc1f-7553-4964-b599-37b5b2c6a713" />
 
 
 **Figure 6:** KCL calculation
